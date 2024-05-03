@@ -4,6 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <div className="container">
       <header className="App-header">
        <h1> Weather Search Eingen in React</h1>
       </header>
@@ -12,8 +13,8 @@ function App() {
         <a href="https://github.com/bushrakhugyani/react-weather" target="_blank"> open-sourced on GitHub
         </a>
       </footer>
-
+      </div>
     </div>
   );
-}
+}  
 export default App;
