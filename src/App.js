@@ -8,13 +8,12 @@ function App() {
        <h1> Weather Search Eingen in React</h1>
       </header>
       <footer>
-         This project was coded by Bushra Khugyani and is
-        <a href="https://github.com/bushrakhugyani/react-weather"> open-sourced on GitHub
+         This project was coded by Bushra Khugyani and is {" "}
+        <a href="https://github.com/bushrakhugyani/react-weather" target="_blank"> open-sourced on GitHub
         </a>
       </footer>
 
     </div>
   );
 }
-
 export default App;
