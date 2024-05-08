@@ -36,6 +36,12 @@
 .Weather .position{
     display:inline-flex;
 }
+.Weather canvas{
+    margin-top:5px;
+    margin-right:10px;
+   display:inline-block;
+
+  }
 .Weather .temperature {
     font-weight: bold;
     color: rgb(33, 33, 33);
@@ -44,12 +50,7 @@
    font-weight: 400;
     
   }
-  .Weather img{
-    height: 64px;
-    margin-right:10px;
-   
 
-  }
 .Weather .unit {
     color: rgb(33, 33, 33);
     font-size: 16px;
