@@ -12,8 +12,7 @@ function App() {
       <Weather defaultCity="New York"/>
       <footer>
          This project was coded by Bushra Khugyani and is {" "}
-        <a href="https://github.com/bushrakhugyani/react-weather" target="_blank"> open-sourced on GitHub
-        </a>
+         <a rel="noreferrer" href="https://github.com/bushrakhugyani/react-weather" target="_blank"> open-sourced on GitHub</a>
       </footer>
       </div>
     </div>
