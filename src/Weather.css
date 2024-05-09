@@ -42,7 +42,7 @@
    display:inline-block;
 
   }
-.Weather .temperature {
+  .Weather .temperature {
     font-weight: bold;
     color: rgb(33, 33, 33);
     font-size: 60px;
