@@ -1,10 +1,19 @@
  
 .App{
-  background-color:#adebf8;
+  background-color:#d4dce6a4;
   max-width:600px ;
   margin:50px auto;
-  
+  border-radius: 20px;
  
+}
+body {
+ 
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("https://wallup.net/wp-content/uploads/2017/03/28/355460-clouds-sky.jpg");
+  overscroll-behavior: none;
+  overflow-y: hidden;
 }
 .App header{
   font-size:32px;
@@ -16,6 +25,6 @@
   font-size:12px;
   margin:20px 0;
   padding-bottom: 20px;
-  color:gray;
+  color:rgb(87, 86, 86);
   text-align: center;
 }
