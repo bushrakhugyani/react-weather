@@ -11,6 +11,7 @@
 
 
 }
+
 .Weather form{
     margin-bottom:30px;
 }
@@ -69,5 +70,19 @@
     font-weight: 400;
     position: relative;
     top:-30px;
+
+  }
+  @media (max-width: 768px){
+  
+    .Weather .col-9{
+        max-width: 80%;
+        margin-right:0px;
+        padding-right:2px ;
+    }
+    .Weather .col-3{
+        margin-left:0px;
+        padding-left:2px ;
+        
+    }
 
   }

@@ -1,0 +1,13 @@
+
+
+@media (max-width: 768px){
+.Weather .temperature{
+font-size: 46px;
+}
+.Weather .unit{
+    font-size:small;
+}
+.WeatherInfo .col-6{
+    padding-left:15px ;
+}
+}

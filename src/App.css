@@ -7,14 +7,19 @@
  
 }
 body {
- 
+  margin: 0;
+  padding: 0;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   background-image: url("https://wallup.net/wp-content/uploads/2017/03/28/355460-clouds-sky.jpg");
-  overscroll-behavior: none;
+ 
   overflow-y: hidden;
+  height: 100vh;
 }
+
+
+
 .App header{
   font-size:32px;
   text-align:center;
