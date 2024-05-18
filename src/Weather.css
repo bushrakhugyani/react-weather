@@ -78,11 +78,17 @@
         max-width: 80%;
         margin-right:0px;
         padding-right:2px ;
+        padding-left:2px ;
     }
     .Weather .col-3{
         margin-left:0px;
         padding-left:2px ;
-        
+        padding-right:2px;
+    }
+    .Weather .btn{
+        font-size: 14px;
+        text-align: center;
+        padding:8px;
     }
 
   }
